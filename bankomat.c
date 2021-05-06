@@ -35,7 +35,7 @@ void Balance(int schet, int* scheta)
 void Popolnenie(int schet, int* scheta)
 {
 	int cashin;
-	printf("\nNa skol'ko jelaete popolnit'?   ");
+	printf("\nNa skol'ko jelaete popolllnit'?   ");
 	scanf(" %i", &cashin);
 	if (cashin<1)
 	{
